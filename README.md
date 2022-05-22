@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub- Source](https://github.com/fa125had/Order-Summary-Component)
+- Live Site URL: [GitHub- Live](https://fa125had.github.io/Order-Summary-Component/)
 
 ## My process
 
