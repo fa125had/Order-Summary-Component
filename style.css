@@ -21,7 +21,10 @@ body {
     flex-direction: column;
     height: 100vh;
     justify-content: center;
-    background-color: rgba(196, 198, 237, 0.6);
+    background-color: var(--color-paleBlue);
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .container {
@@ -152,4 +155,11 @@ a.button {
 .attribution a {
     color: var(--color-hoverBlue);
     font-size: 0.8rem;
+}
+@media all and (max-width: 380px) {
+    body {
+        background-image: url(./images/pattern-background-mobile.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
 }
